@@ -1,0 +1,13 @@
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\bin\Debug\netcoreapp3.1\Bank.Dio.exe
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\bin\Debug\netcoreapp3.1\Bank.Dio.deps.json
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\bin\Debug\netcoreapp3.1\Bank.Dio.runtimeconfig.json
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\bin\Debug\netcoreapp3.1\Bank.Dio.runtimeconfig.dev.json
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\bin\Debug\netcoreapp3.1\Bank.Dio.dll
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\bin\Debug\netcoreapp3.1\Bank.Dio.pdb
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\obj\Debug\netcoreapp3.1\Bank.Dio.csproj.AssemblyReference.cache
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\obj\Debug\netcoreapp3.1\Bank.Dio.AssemblyInfoInputs.cache
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\obj\Debug\netcoreapp3.1\Bank.Dio.AssemblyInfo.cs
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\obj\Debug\netcoreapp3.1\Bank.Dio.csproj.CoreCompileInputs.cache
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\obj\Debug\netcoreapp3.1\Bank.Dio.dll
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\obj\Debug\netcoreapp3.1\Bank.Dio.pdb
+D:\Programing\Projetos em C#\Bank.Dio\Bank.Dio\obj\Debug\netcoreapp3.1\Bank.Dio.genruntimeconfig.cache
